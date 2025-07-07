@@ -1,4 +1,5 @@
-public class employeedetails {
+public class emplyoeedetails {
+    public class employeedetails {
     public static void main(String[] args) {
         String[][] employees = new String[10][2];
         {
@@ -19,3 +20,6 @@ public class employeedetails {
 
 
 
+
+    
+}
