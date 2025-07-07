@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 
 public class Stringexample {
@@ -16,3 +15,4 @@ public class Stringexample {
         System.out.println(Arrays.toString(words));
     }
 }
+
