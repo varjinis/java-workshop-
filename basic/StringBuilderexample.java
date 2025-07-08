@@ -1,7 +1,7 @@
 public class StringBuilderexample {
    public static void main(String[] args) {
-         StringBuilder SB = new StringBuilder();
-SB.append("Java");
+        StringBuilder SB = new StringBuilder();
+        SB.append("Java");
         SB.append("is ");
         SB.append("the ");
         SB.append("most ");
