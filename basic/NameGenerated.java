@@ -5,7 +5,7 @@ public class NameGenerated {
          Scanner name = new Scanner(System.in);
          System.out.println("Enter your name");
 
-         String name = stringScanner.next(); 
+         String name = StringScanner.next(); 
           System.out.println("mr, " + name + "!");
     }
 }

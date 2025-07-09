@@ -10,8 +10,8 @@ public class emplyoeedetails {
             employees[2][1] = "25000";
             employees[2][2] = "thara";
             System.out.println("EmployeeDetails:");
-            for(int i = 0; i < employees.length; i++) {
-                System.out.println("salary:"+ employees[i][0]+"Name:" + employees[i][1]);
+            for (String[] employee : employees) {
+                System.out.println("salary:" + employee[0] + "Name:" + employee[1]);
             }
             
         }
